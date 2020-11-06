@@ -37,7 +37,7 @@ export default {
 
   pwa: {
     icon: {
-      source: "./static/img/logo.png"
+      source: "./static/images/logo.png"
     },
     manifest: {
       short_name: "BOCOA",
