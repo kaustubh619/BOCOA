@@ -40,7 +40,7 @@ export default {
       source: "./static/images/logo.png"
     },
     manifest: {
-      short_name: "BOCOA",
+      short_name: "Smart Bengaluru",
       name: "Bengaluru One City App",
       start_url: "/",
       theme_color: "#202225"
