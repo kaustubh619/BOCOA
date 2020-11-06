@@ -9,7 +9,7 @@
             target="blank"
             class="img-anchor"
           >
-            <img src="~static/images/grievance.png" class="img-services" />
+            <img src="~static/images/grievance.webp" class="img-services" />
           </a>
         </div>
         <div class="col-6 col-lg-3">
@@ -18,7 +18,7 @@
             target="blank"
             class="img-anchor"
           >
-            <img src="~static/images/bescom.jpg" class="img-services" />
+            <img src="~static/images/bescom.webp" class="img-services" />
           </a>
         </div>
         <div class="col-6 col-lg-3">
@@ -27,12 +27,12 @@
             target="blank"
             class="img-anchor"
           >
-            <img src="~static/images/bangalore-one.jpeg" class="img-services" />
+            <img src="~static/images/bangalore-one.webp" class="img-services" />
           </a>
         </div>
         <div class="col-6 col-lg-3">
           <a href="https://www.bwssb.gov.in/" target="blank" class="img-anchor">
-            <img src="~static/images/bwssb_1.png" class="img-services" />
+            <img src="~static/images/bwssb_1.webp" class="img-services" />
           </a>
         </div>
       </div>
@@ -64,7 +64,7 @@
 }
 
 .index-img {
-  background-image: url("~static/images/vidhan_soudha_large.jpg");
+  background-image: url("~static/images/vidhan_soudha_large.webp");
   height: 600px;
   background-size: cover;
   background-position: center;
@@ -87,7 +87,7 @@
 
 @media screen and (max-width: 37.5em) {
   .index-img {
-    background-image: url("~static/images/vidhan_soudha_small.jpg");
+    background-image: url("~static/images/vidhan_soudha_small.webp");
     height: 300px;
   }
   .img-services {
@@ -99,7 +99,7 @@
 
 @media (min-width: 37.5em) and (max-width: 1024px) {
   .index-img {
-    background-image: url("~static/images/vidhan_soudha_medium.jpg");
+    background-image: url("~static/images/vidhan_soudha_medium.webp");
     height: 400px;
   }
 }
