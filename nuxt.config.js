@@ -37,14 +37,15 @@ export default {
 
   pwa: {
     icon: {
-      source: "./static/img/new_logo.png"
+      source: "./static/img/logo.png"
     },
     manifest: {
-      short_name: "Zeality",
-      name: "Zeality",
+      short_name: "BOCOA",
+      name: "Bengaluru One City App",
       start_url: "/",
       theme_color: "#202225"
     }
+  },
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {}
