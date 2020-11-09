@@ -37,7 +37,7 @@ export default {
 
   pwa: {
     icon: {
-      source: "./static/images/logo.png"
+      source: "./static/images/main_logo.png"
     },
     manifest: {
       short_name: "Smart Bengaluru",
