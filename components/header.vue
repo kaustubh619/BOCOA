@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <img src="~static/images/logo.png" class="img-logo" />
+    <img src="~static/images/main_logo.png" class="img-logo" />
   </div>
 </template>
 
