@@ -149,7 +149,8 @@
 .img-services {
   border: 4px solid #ede574;
   border-radius: 50%;
-  width: 200px;
+  width: 140px;
+  height: 140px;
   background: white;
   margin: 10px;
 }
@@ -161,8 +162,8 @@
   }
   .img-services {
     border-radius: 50%;
-    width: 68px;
-    height: 68px;
+    width: 74px;
+    height: 74px;
     background: white;
   }
 }
