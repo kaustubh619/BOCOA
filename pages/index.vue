@@ -9,7 +9,7 @@
             target="blank"
             class="img-anchor"
           >
-            <img src="~static/images/grievance_new.webp" class="img-services" />
+            <img src="~static/images/grievance.png" class="img-services" />
           </a>
           <span class="title-services">Grievance Redressal</span>
         </div>
