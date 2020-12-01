@@ -1,6 +1,30 @@
 <template>
   <div class="header">
     <img src="~static/images/main_logo.png" class="img-logo" />
+    <div>
+      <span
+        style="
+          display: block;
+          text-align: center;
+          font-size: 17px;
+          font-weight: bold;
+        "
+        ><span style="color: red">S</span>mar<span style="color: red"
+          >t</span
+        ></span
+      >
+      <span
+        style="
+          display: block;
+          text-align: center;
+          font-size: 17px;
+          font-weight: bold;
+        "
+        ><span style="color: red">B</span>engalur<span style="color: red"
+          >u</span
+        >
+      </span>
+    </div>
   </div>
 </template>
 
